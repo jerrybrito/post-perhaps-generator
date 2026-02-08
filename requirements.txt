@@ -1,0 +1,2 @@
+# Requires: infinite-paradox
+# (Not available on PyPI)
